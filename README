@@ -1,8 +1,6 @@
 ---------------------------------------------------------[ DESCRIPTION ]--
 
-The project is a java based Map application, which extends the Google Map API. The main purpose is to find the shortest route 
-between selected Position. By comparing three different graph algorithm, the process of route generation can be visualized and 
-analysed. Additionally, I used JavaFX to test, demonstrate and design the UI.
+The project is a java based Map application, which extends the Google Map API. The main purpose is to find the shortest route between selected Position. By comparing three different graph algorithm, the process of route generation can be visualized and analysed. Additionally, I used JavaFX to test, demonstrate and design the UI.
 
 
 
